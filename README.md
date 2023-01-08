@@ -13,7 +13,7 @@ I've been learning to code for a long time i started at 7 years old with the hel
 * 🤝  I'm open to collaborating on any project that I can learn from, so basically anything.
 * ⚡  I LOVE open source projects (even if mine are not public for the majority).
 
-### Skills
+### Skills (I'm not necessarily super good at all of this.)
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
