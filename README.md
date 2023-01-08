@@ -7,7 +7,7 @@ Hi 👋 My name is Tristan aka FantomeKill or Toxo
 I've been learning to code for a long time i started at 7 years old with the help of my dad
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [FantomeKill#7003](mailto:FantomeKill#7003)
+* ✉️  You can contact me at [FantomeKill#7003](https://discord.com/users/517814115528474644)
 * 🚀  I'm currently working on [@Redserv-Network](http://github.com/redserv-network)
 * 🧠  I'm learning RUST
 * 🤝  I'm open to collaborating on any project that I can learn from, so basically anything.
