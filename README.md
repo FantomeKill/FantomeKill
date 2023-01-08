@@ -9,6 +9,7 @@ I've been learning to code for a long time i started at 7 years old with the hel
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [FantomeKill#7003](https://discord.com/users/517814115528474644)
 * 🚀  I'm currently working on [@Redserv-Network](http://github.com/redserv-network)
+* 🚀  I'm currently working also on other project in many language that might go public
 * 🧠  I'm learning RUST
 * 🤝  I'm open to collaborating on any project that I can learn from, so basically anything.
 * ⚡  I LOVE open source projects (even if mine are not public for the majority).
