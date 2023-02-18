@@ -4,7 +4,7 @@ Hi 👋 My name is Tristan aka Toxo or FantomeKill
 🇨🇦 I'm a French Canadian student.
 -----------------------------------
 
-I've been learning to code for a long time i started at 7 years old with the help of my dad
+I've been learning to code for a long time i started at 7 years old
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [FantomeKill#7003](https://discord.com/users/517814115528474644)
