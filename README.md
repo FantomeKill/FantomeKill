@@ -51,5 +51,5 @@ I've been learning to code for a long time i started at 7 years old
 <b>My GitHub Stats</b>
 
 
-![Toxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantomeKill&show_icons=true&theme=radical&rank_icon=github)
+![Toxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantomeKill&show_icons=true&theme=radical&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomeKill&layout=compact&theme=radical)
