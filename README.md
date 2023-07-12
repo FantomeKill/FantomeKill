@@ -52,4 +52,4 @@ I've been learning to code for a long time i started at 7 years old
 
 
 ![Toxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FantomeKill&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomeKill&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomeKill&layout=compact&theme=radical&rank_icon=github)
