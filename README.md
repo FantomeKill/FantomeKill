@@ -1,7 +1,7 @@
 Hi 👋 My name is Tristan aka Toxo or FantomeKill
 ================================================
 
-🇨🇦 I'm a French Canadian student.
+🇨🇦 I'm a French Canadian student in Software Engineering.
 -----------------------------------
 
 I've been learning to code for a long time i started around 7 or 8 years old
