@@ -1,4 +1,4 @@
-Hi 👋 My name is Tristan aka Toxo or FantomeKill
+Hi 👋 My name is Tristan aka Toxo
 ================================================
 
 🇨🇦 I'm a French Canadian student in Software Engineering.
