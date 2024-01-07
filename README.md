@@ -6,11 +6,10 @@ Hi 👋 My name is Tristan aka Toxo
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [FantomeKill#7003](https://discord.com/users/517814115528474644)
-* 🚀  I'm currently working on [@Redserv-Network](http://github.com/redserv-network)
-* 🚀  I'm currently working also on other project in many language that might go public
+* 🚀  I'm currently working on multiple project in many language that might go public
 * 🧠  I'm learning RUST
-* 🤝  I'm open to collaborating on any project that I can learn from, so basically anything.
-* ⚡  I LOVE open source projects (even if mine are not public for the majority).
+* 🤝  I'm open to collaborating on any project.
+* ⚡  I LOVE open source projects.
 
 ### Skills (I'm not necessarily super good at all of this. STILL LEARNING)
 
