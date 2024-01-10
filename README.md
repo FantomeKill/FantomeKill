@@ -47,6 +47,6 @@ Hi 👋 My name is Tristan aka Toxo
 
 <b>My GitHub Stats</b>
 
-
 ![Toxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxoscorp&show_icons=true&theme=radical&hide_rank=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxoscorp&layout=compact&theme=radical)
