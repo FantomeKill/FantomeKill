@@ -5,7 +5,7 @@ Hi 👋 My name is Tristan aka Toxo
 -----------------------------------
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [FantomeKill#7003](https://discord.com/users/517814115528474644)
+* ✉️  You can contact me at [contact@toxoscorp.com](mailto:contact@toxoscorp.com)
 * 🚀  I'm currently working on multiple project in many language that might go public
 * 🧠  I'm learning RUST
 * 🤝  I'm open to collaborating on any project.
