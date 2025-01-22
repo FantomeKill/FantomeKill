@@ -1,7 +1,7 @@
 Hi 👋 My name is Tristan aka Toxo
 ================================================
 
-🇨🇦 A French Canadian Software Engineering student passionate about **low-level programming, embedded systems, and open-source development**.
+🇨🇦 A French Canadian Software Engineering student
 -----------------------------------
 
 ### About Me
@@ -10,7 +10,7 @@ Hi 👋 My name is Tristan aka Toxo
 - 🚀 Currently working on multiple projects in various languages
 - 🦀 Learning Rust
 - 🤝 Open to collaboration on cool projects
-- 💖 Passionate about open-source & embedded systems
+- 💖 Passionate about open-source & low-level programming & embedded systems
 
 ---
 
