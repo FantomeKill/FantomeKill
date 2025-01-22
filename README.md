@@ -38,11 +38,6 @@ Hi 👋 My name is Tristan aka Toxo
 
 ---
 
-<<<<<<< Updated upstream
-![Toxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxoscorp&show_icons=true&theme=github_dark_dimmed&hide_rank=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxoscorp&layout=compact&theme=github_dark_dimmed)
-=======
 ### 🌍 Socials
 
 <p align="left"> <a href="https://discord.com/users/517814115528474644" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=86982&format=png&color=000000" width="32" height="32" /></a> <a href="https://www.github.com/FantomeKill" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" /></a></p>
@@ -55,4 +50,3 @@ Hi 👋 My name is Tristan aka Toxo
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=toxoscorp&show_icons=true&theme=github_dark_dimmed&hide_rank=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxoscorp&layout=compact&theme=github_dark_dimmed" />
 </p>
->>>>>>> Stashed changes
