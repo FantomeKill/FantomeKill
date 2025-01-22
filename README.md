@@ -1,7 +1,7 @@
 Hi 👋 My name is Tristan aka Toxo
 ================================================
 
-🇨🇦 A French Canadian Software Engineering student
+🇨🇦 A French-Canadian Software Engineering student
 -----------------------------------
 
 ### About Me
@@ -10,13 +10,13 @@ Hi 👋 My name is Tristan aka Toxo
 - 🚀 Currently working on multiple projects in various languages
 - 🦀 Learning Rust
 - 🤝 Open to collaboration on cool projects
-- 💖 Passionate about open-source & low-level programming & embedded systems
+- 💖 Passionate about open-source, low-level programming, and embedded systems
 
 ---
 
 ### 🔧 Technologies & Tools
 
-#### 🖥️ Programming Languages
+<!-- #### 🖥️ Programming Languages -->
 
 <p align="left">
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32" alt="C" /></a>
@@ -27,7 +27,7 @@ Hi 👋 My name is Tristan aka Toxo
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" /></a>
 </p>
 
-#### 🛠 Tools & Platforms
+<!-- #### 🛠 Tools & Platforms -->
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" width="32" alt="git"  /></a>
@@ -40,7 +40,7 @@ Hi 👋 My name is Tristan aka Toxo
 
 ### 🌍 Socials
 
-<p align="left"> <a href="https://discord.com/users/517814115528474644" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=86982&format=png&color=000000" width="32" height="32" /></a> <a href="https://www.github.com/FantomeKill" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/517814115528474644" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=86982&format=png&color=000000" width="32" height="32" /></a> <a href="https://www.github.com/toxoscorp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" /></a></p>
 
 ---
 
